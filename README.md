@@ -54,5 +54,5 @@ ion-card:hover {
 }
 ```
 
-# Demo
+## Demo
 ![Demo GIF](demo.gif)
